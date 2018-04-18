@@ -1,0 +1,9 @@
+[submodule "intercept"]
+	path = intercept
+	url = https://github.com/intercept/intercept.git
+[submodule "imgui-node-editor"]
+	path = imgui-node-editor
+	url = https://github.com/thedmd/imgui-node-editor.git
+[submodule "fmt"]
+	path = fmt
+	url = https://github.com/fmtlib/fmt.git
